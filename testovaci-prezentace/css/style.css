@@ -1,0 +1,14 @@
+.a{
+  background: yellow;
+  color: grey;
+}
+
+.b{
+  background: red;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: calc(50% - 25px);
+  left: calc(50% - 25px);
+  transform: rotate(-45deg);
+}
